@@ -9,4 +9,4 @@ About me:
   - 🌱 Learning probability theory
   - 🔬 Looking to collaborate on data science projects
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGAS&layout=compact&langs_count=6&theme=light"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGAS&layout=compact&langs_count=6&theme=light&hide=jupyter%20notebook"/>
