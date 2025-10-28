@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
 About me:
 
-- Graduated in the Integrated Technical Course in Informatics at the Federal Technological University of Paraná (UTFPR)
+- Computer Scientist and IT technician by UTFPR
 - I'm currently:
-  - 📖 Studying Computer Science at UTFPR, Campo Mourão
-  - 🔭 Working on drift detection algorithms! See more in [ML-ENADE](https://github.com/RenanGAS/ML-ENADE)
-  - 🌱 Learning probability theory
-  - 🔬 Looking to collaborate on data science projects
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGAS&layout=compact&langs_count=6&theme=light"/>
+  - 📖 Researching and working with Computer Vision
+- My previous experiences include:
+  - 🔭 Supervised learning and Data Drift detection algorithms, see more in [ML-ENADE](https://github.com/RenanGAS/ML-ENADE)
